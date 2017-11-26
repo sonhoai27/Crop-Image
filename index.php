@@ -1,5 +1,5 @@
 <?php
-  require_once ("./Image.php");
+  require_once ("./crop.php");
   $crop = new CropImage();
 
   $src = $_GET['src'];
